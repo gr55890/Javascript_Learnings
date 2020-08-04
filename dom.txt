@@ -1,0 +1,25 @@
+DOM Selectors
+-----------------------------
+getElementByID
+getElementByTagName
+getElementByClassName
+
+querySelector
+querySelectorAll
+
+getAttribute
+setAttribute
+
+##Changing Styles
+style.{property} //ok
+
+className
+classList
+
+classList.add
+classList.remove
+classList..toggle
+
+innerHTML //dangerous
+parentElement
+children
